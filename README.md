@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rupsha-github
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning computer science honours
-- 💞️ I’m looking to collaborate on java
+- 🌱 I’m currently pursuing Masters in Computer Applications(MCA)
+- 💞️ I’m looking to collaborate on Java, HTML, CSS, JavaScript, C, C++ and Python
 - 📫 How to reach me @Rupsha-github
 
 <!---
